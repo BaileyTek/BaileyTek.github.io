@@ -1,1 +1,21 @@
+/* CSS styles */
 
+/* default */
+*{
+  padding: 0;
+  box-sizing: border-box;
+  text-align: justify;
+}
+
+
+/* default navigation bar */
+
+ul{
+  list-style: none;
+}
+li{
+  display: inline;
+}
+a{
+  text-decoration: none;
+}
