@@ -1,0 +1,12 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Dekko&family=Itim&family=Nanum+Pen+Script&family=Nerko+One&family=Pacifico&family=Pangolin&family=Patrick+Hand&family=Permanent+Marker&display=swap');
+</style>
+
+font-family: 'Dekko', cursive;
+font-family: 'Itim', cursive;
+font-family: 'Nanum Pen Script', cursive;
+font-family: 'Nerko One', cursive;
+font-family: 'Pacifico', cursive;
+font-family: 'Pangolin', cursive;
+font-family: 'Patrick Hand', cursive;
+font-family: 'Permanent Marker', cursive;
